@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>Icon/kisspng-arrow-emoji-computer-icons-right-arrow-5ad6ec2b7ac819.6936564815240346035029.png</file>
+        <file>Icon/kisspng-computer-icons-clip-art-icon-instagram-5b396cec732b10.9586206015304900924717.png</file>
+        <file>Icon/kisspng-computer-icons-running-download-clip-art-sport-activities-running-icon-5ab063fbaf7c06.3929452415215093717188.png</file>
+        <file>Icon/kisspng-gear-sprocket-clip-art-gears-vector-5add084d6a9e11.5447134915244350214367.png</file>
+        <file>Icon/kisspng-information-computer-icons-scalable-vector-graphic-pictures-icon-information-5ab0818642e194.141023201521516934274.png</file>
+        <file>Icon/background.jpg</file>
+        <file>Icon/book_closed_icon_143831.png</file>
+        <file>Icon/misc_file_exe_15876.ico</file>
+    </qresource>
+</RCC>
